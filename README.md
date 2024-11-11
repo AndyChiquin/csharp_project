@@ -40,6 +40,11 @@ docker login
 docker push itsandy/csharp_project
 ~~~
 
+## C# Image URL
+~~~
+https://hub.docker.com/r/itsandy/csharp_project
+~~~
+
 # Deployment on RailWay
 
 1. Log in to Railway and link it to your GitHub repository.
